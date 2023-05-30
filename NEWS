@@ -1,0 +1,11 @@
+2023-05-09 | 0.2.2
+
+* Add functions for popcnt directly from the initial feature selection results (i.e., avoiding clustering).
+
+2023-04-29 | 0.2.1
+
+* Export all built-in feature dissimilarity functions as `builtin_dist_funs`.
+
+2023-04-24 | 0.2.0
+
+* The initial public version.
