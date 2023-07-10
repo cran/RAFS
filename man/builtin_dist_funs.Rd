@@ -5,7 +5,7 @@
 \alias{builtin_dist_funs}
 \title{All built-in feature dissimilarity functions}
 \format{
-An object of class \code{list} of length 6.
+An object of class \code{list} of length 5.
 }
 \usage{
 builtin_dist_funs

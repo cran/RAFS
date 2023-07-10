@@ -22,6 +22,4 @@ To be used as one of the \code{dist_funs} in \code{\link{run_rafs}}.
 \details{
 This function computes the STIG metric directly from the data, maximising it over 30 discretisations, but reusing
 the common 1D conditional entropy.
-
-It tends to work similarly to \code{\link{stig_from_ig_stable_dist}}.
 }

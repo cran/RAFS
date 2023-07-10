@@ -1,3 +1,8 @@
+2023-07-08 | 0.2.3
+
+* Remove the redundant stig_from_ig_stable_dist. Please simply use stig_stable_dist.
+  The difference was only in the numeric precision of results (always negligible).
+
 2023-05-09 | 0.2.2
 
 * Add functions for popcnt directly from the initial feature selection results (i.e., avoiding clustering).

@@ -80,8 +80,7 @@ default_dist_funs <- list(
 #' @export
 builtin_dist_funs <- c(default_dist_funs, list(
   stig_stable = stig_stable_dist,
-  stig_from_ig = stig_from_ig_dist,
-  stig_from_ig_stable = stig_from_ig_stable_dist
+  stig_from_ig = stig_from_ig_dist
 ))
 
 
