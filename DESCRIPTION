@@ -1,9 +1,10 @@
 Package: RAFS
 Title: Robust Aggregative Feature Selection
-Version: 0.2.3
-Date: 2023-07-08
+Version: 0.2.4
+Date: 2024-05-11
 Authors@R: c(
-    person("Radosław", "Piliszek", email = "radoslaw.piliszek@gmail.com", role = c("aut", "cre")))
+    person("Radosław", "Piliszek", email = "radoslaw.piliszek@gmail.com", role = c("aut", "cre")),
+    person(c("Witold", "Remigiusz"), "Rudnicki", email = "w.rudnicki@uwb.edu.pl", role = c("ths", "aut")))
 URL: https://www.mdfs.it/
 Description: A cross-validated minimal-optimal feature selection algorithm.
  It utilises popularity counting, hierarchical clustering with feature dissimilarity measures,
@@ -14,8 +15,9 @@ Encoding: UTF-8
 RoxygenNote: 7.2.3
 Imports: fastcluster, MDFS (>= 1.5.3), splitTools
 NeedsCompilation: no
-Packaged: 2023-07-09 14:19:16 UTC; ubuntu
-Author: Radosław Piliszek [aut, cre]
+Packaged: 2024-05-11 17:01:07 UTC; radek
+Author: Radosław Piliszek [aut, cre],
+  Witold Remigiusz Rudnicki [ths, aut]
 Maintainer: Radosław Piliszek <radoslaw.piliszek@gmail.com>
 Repository: CRAN
-Date/Publication: 2023-07-10 19:00:18 UTC
+Date/Publication: 2024-05-11 17:23:06 UTC
